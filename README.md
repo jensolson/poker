@@ -1,5 +1,5 @@
 # poker
-Calculates pre- and post-flop equity for randomly generated or user-specified hole cards
+Calculates pre- and post-flop equity for randomly generated or user-specified hole cards using Kevin Suffecool's 5-card hand evaluator.
 
 Hash scheme courtesy of https://suffe.cool/poker/evaluator.html
 

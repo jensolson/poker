@@ -1,5 +1,5 @@
 # poker
-Two of my favorite poker hand evaluators from Coding the Wheel's roundup: https://www.codingthewheel.com/archives/poker-hand-evaluator-roundup/
+Two of my favorite poker hand evaluators from Coding the Wheel's roundup(https://www.codingthewheel.com/archives/poker-hand-evaluator-roundup/): my implementations in python
 
 v4 calculates pre- and post-flop equity for randomly generated or user-specified hole cards using Kevin Suffecool's 5-card hand evaluator.
 
